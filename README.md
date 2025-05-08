@@ -13,6 +13,6 @@ I'm a Year 2 Computer Science student at NTU 🇸🇬 and an ASEAN Scholar passi
 - DQN CartPole Agent (100% success over 100 runs)
 - AI Chatbot with OpenAI API (boosted user engagement 2x)
 
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/gan-yee-hong-4a8758290/) | Email me
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/gan-yee-hong-4a8758290/) | [Email me](mailto:ganyeehong123@gmail.com)
 
 “When I code, the sun rises, but I never make the mistake of thinking that the sun rises because I code”
